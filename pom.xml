@@ -12,7 +12,6 @@
 
     <modules>
         <module>multimodule</module>
-        <module>version-shading</module>
     </modules>
 
 </project>
